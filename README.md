@@ -25,3 +25,5 @@ Nota: para fazer chamada _delete_ para o endpoint _/jobs/{id}_ é necessário fo
 
 Os testes unitários da API podem ser executados dentro do contêiner da API. Para isso, digite no terminal:
 `docker-compose exec api pytest src/tests`
+
+updated
