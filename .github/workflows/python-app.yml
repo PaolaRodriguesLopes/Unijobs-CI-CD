@@ -17,7 +17,6 @@ jobs:
     environment:
       name: homolog
       url: https://unijobs-dev.herokuapp.com/docs
-    needs: build
     steps:
       - uses: actions/checkout@v2
       - uses: akhileshns/heroku-deploy@v3.12.12 # This is the action
