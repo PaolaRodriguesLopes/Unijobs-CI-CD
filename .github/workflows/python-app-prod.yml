@@ -1,4 +1,4 @@
-name: Unijobs API CI/CD - Prod
+name: Unijobs API CD - Prod
 
 on:
   push:
