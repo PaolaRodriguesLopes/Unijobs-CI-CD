@@ -24,4 +24,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "unijobs-dev" #Must be unique in Heroku
           heroku_email: "paolarodrigues158@gmail.com"
-          branch: "dev"
+          branch: "homolog"
